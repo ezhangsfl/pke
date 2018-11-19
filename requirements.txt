@@ -1,4 +1,4 @@
-nltk
+nltk==3.3
 networkx
 numpy
 scipy
